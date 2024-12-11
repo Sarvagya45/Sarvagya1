@@ -19,6 +19,7 @@ git clone "link of repo"
 git status
  */
 
+
 //pneumonics
 /*
 local - your pc/laptop
@@ -29,11 +30,13 @@ staged - file is ready to be commited "means ki yeh humne add kari hai na ki com
 unmodified - unchanged file
  */
 
-//to add and commit command
+
+//to add ,commit and push command
 /*
 git add 'filename' OR 
 if we have to add many changes at one time 
 git add .
 git 
 git commit-m "some message"
+git push origin main
 */
