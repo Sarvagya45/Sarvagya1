@@ -21,6 +21,8 @@ git status
 
 //pneumonics
 /*
+local - your pc/laptop
+remote - will be your github repo
 untracked - new files that git doesn't yet track
 modified - changed file
 staged - file is ready to be commited "means ki yeh humne add kari hai na ki commit kari commit baad me karenge"
