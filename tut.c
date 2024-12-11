@@ -33,4 +33,5 @@ git add 'filename' OR
 if we have to add many changes at one time 
 git add .
 git 
+git commit-m "some message"
 */
